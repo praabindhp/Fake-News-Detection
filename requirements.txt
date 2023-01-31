@@ -1,0 +1,8 @@
+flask
+Pillow
+pandas
+pickle5
+pickle
+nltk
+scikit-learn
+-U scikit-learn
